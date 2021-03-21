@@ -1,13 +1,13 @@
 {
   "name": "user",
   "version": "1.0.0",
-  "description": "make user API",
+  "description": "user API",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon -r ./index.js"
   },
-  "author": "seli",
+  "author": "putri",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
